@@ -6,12 +6,6 @@ Jin Ma, and Gaozhan Wang.
 
 [Paper](https://arxiv.org/abs/2309.10242)
 
-This repository contains the corrected constant-coefficient fixed-policy
-diagnostic, its sensitivity study, and the supplied policy-learning
-implementations. The fixed-policy experiments use the boundary-aware killed
-transition-density derivative. The policy-learning profiles and historical
-runners retain their original estimators and configurations; their scope is
-documented below and in [experiment notes](docs/experiments.md).
 
 ## Experiments
 
@@ -97,7 +91,7 @@ Completed fits are reused only when their stored source/configuration hashes
 match. `--plot-only` never trains or changes numerical metadata. The bundled
 sensitivity data retain the hashes of the source versions that generated
 them; the cleaned scripts have a documented rename history in
-[provenance](docs/provenance.md).
+
 
 ## Policy learning and trajectory diagnostics
 
@@ -133,34 +127,8 @@ For a short execution check:
 python policy_learning.py --quick --device cpu --output-dir smoke_output/policy_learning
 ```
 
-To reuse a learned policy for plots:
-
-```bash
-python policy_learning.py --load-policy results/policy_learning/action_sampled/final_policy.pt --diagnostics-only
-```
-
-`--replicates` repeats final evaluation under one frozen learned policy. It
-does not repeat the complete policy-iteration algorithm. See `--help` for
-trajectory, wealth-level, and checkpoint options.
-
-## Included data and figures
-
-`results/sensitivity/` contains all 15 completed fits, the horizon study,
-configuration and source hashes, raw predictions, CSV/LaTeX tables, and the
-updated PNG and vector PDF. `results/fixed_policy/` contains the corresponding
-five-seed reference comparison generated with the cleaned entry point.
-
-![Sensitivity study](results/sensitivity/fixed_policy_sensitivity.png)
-
-The raw numerical results support a fixed-policy evaluation diagnostic.
-They do not establish convergence or robustness of the full policy-iteration
-algorithm. The legacy scripts also use configurations different from the
-current manuscript text; their original settings are listed in
-[legacy documentation](legacy/README.md).
-
 ## Citation and license
 
-Citation metadata are provided in `CITATION.cff`.
 
 The code is available under the custom **Academic Research-Only License** in
 [LICENSE](LICENSE). Noncommercial academic research is permitted under its
