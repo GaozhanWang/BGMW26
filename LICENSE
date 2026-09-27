@@ -1,0 +1,133 @@
+Dividend RL Academic Research-Only License
+Version 1.0
+
+Copyright (c) 2026 Gaozhan Wang.
+All rights reserved except as expressly granted below.
+
+Project: Reinforcement Learning for Optimal Dividend Problem under Diffusion Model
+Licensing and collaboration contact: Gaozhan Wang, gaozhanw@usc.edu
+
+1. COVERED SOFTWARE AND LICENSOR
+
+"Licensor" means the copyright holder or holders identified above, acting
+through an authorized representative where appropriate. The contact person is
+not necessarily the copyright owner or authorized licensing representative.
+
+"Software" means the source code, scripts, notebooks, and accompanying software
+documentation in this repository that Licensor makes available under this
+license, together with modifications to that material. The grant covers only
+rights that Licensor is entitled to license. Third-party material and material
+expressly identified as separately licensed remain subject to their own terms.
+This license does not automatically license separate datasets, model weights,
+or research articles.
+
+2. PERMITTED PURPOSE
+
+"Noncommercial Academic Research" means scholarly investigation undertaken
+solely for noncommercial purposes, including reproducing published results,
+evaluating research methods, conducting experiments, and preparing theses or
+scholarly publications. Such research may be conducted at an academic or
+nonprofit research institution, or by an independent researcher.
+
+Ordinary academic salaries, fellowships, and public or charitable research
+grants do not by themselves make research commercial. Publication of research
+results through a commercial scholarly publisher does not by itself make that
+research commercial.
+
+The following uses are outside the permission granted by this license and
+require separate written authorization under Section 5:
+
+  (a) use directed toward commercial advantage, business operations, or
+      revenue-generating products or services;
+  (b) paid consulting, commercial deployment, or development or evaluation of
+      a commercial product or service;
+  (c) research or development performed for or on behalf of a for-profit
+      organization, including its internal research, testing, and prototyping;
+  (d) research performed under a sponsorship agreement with a for-profit
+      organization, even when conducted at a university or intended for
+      publication; and
+  (e) any other purpose outside Noncommercial Academic Research.
+
+An organization's academic or nonprofit status does not by itself make every
+use eligible. Conversely, an individual's employment by a company does not
+alone exclude independent research that is outside that employment and meets
+all of the conditions above.
+
+3. COPYRIGHT PERMISSION AND SHARING
+
+Subject to this license, Licensor grants you a worldwide, nonexclusive,
+royalty-free copyright license to run, reproduce, study, and modify the
+Software solely for Noncommercial Academic Research. You may also distribute
+the Software, including modified versions, without charge for that same
+purpose, provided that you:
+
+  (a) include this complete license and preserve the applicable copyright,
+      attribution, and third-party license notices;
+  (b) clearly identify modified files and state that you changed them;
+  (c) provide your modifications to the Software under these same terms, so
+      recipients receive the same research permissions and restrictions; and
+  (d) do not grant or represent that you can grant commercial permission for
+      Licensor's Software without separate authorization.
+
+These conditions apply to the Software and modifications to it, not to
+independent works merely used alongside it. You need not distribute your
+private modifications. Each recipient may obtain permission directly from
+Licensor under this license by complying with its terms.
+
+4. RESEARCH RESULTS AND CITATION
+
+You may publish results of permitted research. This license does not impose
+ownership or licensing requirements on numerical results, scientific ideas,
+or independently written papers merely because the Software was used to
+produce them. Copies of the Software included in such materials remain
+subject to this license, except where independently permitted by law.
+
+Please cite the repository and its associated research paper in publications
+that use the Software. This citation request is not an additional condition
+of the copyright permission granted above. The notice-preservation conditions
+in Section 3 are mandatory.
+
+5. COMMERCIAL USE AND OTHER PERMISSIONS
+
+Commercial use and other uses outside Section 2 require a separate written
+license from Licensor or its authorized licensing representative before such
+use begins. Please direct licensing and collaboration inquiries to the contact
+listed above. Making an inquiry, discussing collaboration, or receiving no
+response does not grant permission. Any additional rights and conditions must
+be expressly stated in the separate written agreement.
+
+6. RESERVED AND INDEPENDENT RIGHTS
+
+No patent or trademark license is granted. You may not suggest that Licensor,
+the authors, or their institutions endorse you or your work without separate
+permission. All rights not expressly granted are reserved.
+
+Nothing in this license limits rights you independently hold under applicable
+law, including applicable copyright exceptions, or under a separate agreement.
+It does not withdraw viewing or forking permissions independently granted
+under the terms of a repository hosting platform. Such permissions do not
+expand the research-use grant in this license.
+
+7. DURATION AND TERMINATION
+
+The permissions in this license last for the applicable copyright term unless
+terminated for your breach of its conditions. If you breach those conditions,
+your permissions terminate automatically and you must stop exercising them
+unless Licensor reinstates them in writing. Compliant recipients' permissions
+are not terminated solely because an upstream distributor breached this
+license. Later revisions of this license do not cancel permissions already
+granted under this version to compliant recipients.
+
+8. WARRANTY AND LIABILITY
+
+To the fullest extent allowed by applicable law, the Software is supplied
+without warranties of any kind, including warranties about accuracy,
+reliability, fitness for a particular purpose, merchantability, or absence of
+infringement. Licensor and the contributors have no obligation to provide
+support, corrections, maintenance, or updates.
+
+To the fullest extent allowed by applicable law, Licensor and the contributors
+are not liable for losses, damages, or claims arising from the Software or its
+use, whether the claim concerns contract, tort, or another legal theory, even
+if they were informed that such harm was possible. This provision does not
+exclude liability that applicable law does not permit to be excluded.
