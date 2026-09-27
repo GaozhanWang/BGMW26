@@ -4,7 +4,7 @@ Numerical experiments accompanying **Reinforcement Learning for Optimal
 Dividend Problem under Diffusion Model**, by Lihua Bai, Thejani Gamage,
 Jin Ma, and Gaozhan Wang.
 
-[Paper](https://arxiv.org/abs/2309.10242)
+https://arxiv.org/abs/2309.10242
 
 
 ## Experiments
